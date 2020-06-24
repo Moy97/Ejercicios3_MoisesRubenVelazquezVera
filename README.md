@@ -1,4 +1,4 @@
-# Ejercicios3_MoisesRubenVelazquezVera
-PATDS 2020 / CINVESTAV / Python / Ejercicios 3
+# Ejercicios_MoisesRubenVelazquezVera
+PADTS 2020 / CINVESTAV / Python / Ejercicios 
 
-Lo habia subido por erroro como Ejercicios2.
+
